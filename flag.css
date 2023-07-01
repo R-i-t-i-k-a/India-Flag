@@ -1,0 +1,315 @@
+/* CSS Code */
+body{
+    background-color: black;
+}
+.all{
+    margin: 20px;
+    padding-bottom: 20px;
+    border: 8px solid beige;
+    text-align: center;
+    align-items: center ;
+}
+h1{
+    color:beige;
+}
+.flag {
+    margin-left: 300px;
+    width: 900px;
+    height: 600px;
+  }
+  .orange {
+    width: 100%;
+    height: 200px;
+    background-color: #ff671f;
+  }
+  .white {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    background-color: white;
+  }
+  .green {
+    width: 100%;
+    height: 200px;
+    background-color: #046a38;
+  }
+
+  /* Ashoka Chakra*/
+
+  .circle {
+    width: 185px;
+    height: 185px;
+    background-color: #06038d;
+    border-radius: 100px;
+    position: absolute;
+    left: 357.5px;
+    top: 7.5px;
+  }
+  .inner-circle {
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    border-radius: 100px;
+    position: absolute;
+    top: 12.5px;
+    left: 12.5px;
+  }
+  .innermost-circle {
+    width: 32px;
+    height: 32px;
+    background-color: #06038d;
+    border-radius: 100px;
+    position: absolute;
+    top: 64px;
+    left: 64px;
+  }
+
+  /* spokes */
+  .wheel {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 16px;
+    left: 16px;
+    border-radius: 100px;
+  }
+  .small-circle1{
+    transform: rotate(3deg);
+  }
+  .small-circle2{
+    transform: rotate(18deg);
+  }
+  .small-circle3{
+    transform: rotate(33deg);
+  }
+  .small-circle4{
+    transform: rotate(48deg);
+  }
+  .small-circle5{
+    transform: rotate(63deg);
+  }
+  .small-circle6{
+    transform: rotate(78deg);
+  }
+  .small-circle7{
+    transform: rotate(93deg);
+  }
+  .small-circle8{
+    transform: rotate(108deg);
+  }
+  .small-circle9{
+    transform: rotate(123deg);
+  }
+  .small-circle10{
+    transform: rotate(138deg);
+  }
+  .small-circle11{
+    transform: rotate(153deg);
+  }
+  .small-circle12{
+    transform: rotate(168deg);
+  }
+  .small-circle13{
+    transform: rotate(183deg);
+  }
+  .small-circle14{
+    transform: rotate(198deg);
+  }
+  .small-circle15{
+    transform: rotate(213deg);
+  }
+  .small-circle16{
+    transform: rotate(228deg);
+  }
+  .small-circle17{
+    transform: rotate(243deg);
+  }
+  .small-circle18{
+    transform: rotate(258deg);
+  }
+  .small-circle19{
+    transform: rotate(273deg);
+  }
+  .small-circle20{
+    transform: rotate(288deg);
+  }
+  .small-circle21{
+    transform: rotate(303deg);
+  }
+  .small-circle22{
+    transform: rotate(318deg);
+  }
+  .small-circle23{
+    transform: rotate(333deg);
+  }
+  .small-circle24{
+    transform: rotate(348deg);
+  }
+  .dot{
+    width: 7px;
+    height: 7px;
+    background-color: #06038d;
+    border-radius: 100px;
+    position: absolute;
+    bottom: 76.5px;
+  }
+  .spoke1 {
+    position: absolute;
+    top: -5.25px;
+    left: -30px;
+    transform: rotate(0deg);
+  }
+  .spoke2 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(15deg);
+  }
+  .spoke3 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(30deg);
+  }
+  .spoke4 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(45deg);
+  }
+  .spoke5 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(60deg);
+  }
+  .spoke6 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(75deg);
+  }
+  .spoke7 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(90deg);
+  }
+  .spoke8 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(105deg);
+  }
+  .spoke9 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(120deg);
+  }
+  .spoke10 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(135deg);
+  }
+  .spoke11 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(150deg);
+  }
+  .spoke12 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(165deg);
+  }
+  .spoke13 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(180deg);
+  }
+  .spoke14 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(195deg);
+  }
+  .spoke15 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(210deg);
+  }
+  .spoke16 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(225deg);
+  }
+  .spoke17 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(240deg);
+  }
+  .spoke18 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(255deg);
+  }
+  .spoke19 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(270deg);
+  }
+  .spoke20 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(285deg);
+  }
+  .spoke21 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(300deg);
+  }
+  .spoke22 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(315deg);
+  }
+  .spoke23 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(330deg);
+  }
+  .spoke24 {
+    position: absolute;
+    top: -5.25px;
+    left: -33px;
+    transform: rotate(345deg);
+  }
+  .triangle1 {
+    width: 32px;
+    border-right: 32px solid #06038d;
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+  }
+  .triangle2 {
+    position: absolute;
+    left: 62.5px;
+    top: 0px;
+    width: 48px;
+    border-right: 48px solid #06038d;
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+    transform: rotate(180deg);
+  }
